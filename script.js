@@ -1,0 +1,1 @@
+ const avanca = document.querySelectorAII(.bnt)
