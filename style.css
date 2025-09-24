@@ -1,0 +1,40 @@
+@import url('https://fonts.googleapis.com/css2?family=Passion+One:wght@400;700;900&display=swap');
+
+body{
+    background-color: aqua;
+    color:red;
+    display:flex;
+    justify-content: center;
+    align-items: center;
+    height: 700px;
+    margin: 0;
+    font-family: Passion One;
+}
+
+button {
+    background-color: green;
+    color: white;
+    font-family: Passion One;
+}
+
+.passo{
+    display: none;
+}
+.passo.ativo{
+    display: block;
+}
+
+main{
+    text-align: center;
+    max-width: 90%;
+}
+
+img{
+    max-width: 90%;
+}
+
+h1{
+    color: blue;
+    background-color: white;
+    border:black solid 4px;
+}
